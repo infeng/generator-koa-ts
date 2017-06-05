@@ -1,0 +1,25 @@
+{
+  "name": "koa-ts-example",
+  "version": "1.0.0",
+  "description": "koa test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-body": "^2.0.1",
+    "koa-ejs": "^4.0.0",
+    "koa-logger": "^3.0.0",
+    "koa-router": "^7.2.0",
+    "koa-static": "^3.0.0",
+    "typescript": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.39",
+    "tslint": "^5.4.2"
+  }
+}
