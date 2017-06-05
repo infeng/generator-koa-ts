@@ -1,6 +1,6 @@
 {
   "name": "generator-koa-ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "create an app using koa and typescript",
   "homepage": "https://github.com/infeng/generator-koa-ts",
   "author": {
